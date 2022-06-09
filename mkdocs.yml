@@ -1,5 +1,8 @@
 site_name: smart-settings
 repo_url: https://github.com/ZiadMansourM/settings
+nav:
+  - Home: index.md
+  - About: about.md
 theme:
   name: mkdocs
 markdown_extensions:
