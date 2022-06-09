@@ -1,4 +1,4 @@
-# 👋 Welcome to smart-settings - [docs](https://github.com/ZiadMansourM/settings)
+# 👋 Welcome to smart-settings - [docs](https://www.sreboy.com/settings/)
 Inspired by [Django](https://github.com/django/django/blob/main/django/conf/__init__.py), smart-settings is a python package that helps you deal with your project settings in a more Pythonic way.
 
 # why smart-settings
