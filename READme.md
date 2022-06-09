@@ -6,7 +6,7 @@ Inspired by [Django](https://github.com/django/django/blob/main/django/conf/__in
 - [X] ability to add default settings
 - [X] ability to add modify settings at run time
 - [X] thread-safe implementation
-- [ ] ability to add save settings modified at run time
+- [ ] ability to save settings modified at run time
 - [ ] JSON/YAML support
 - [ ] Duplicate check
 
