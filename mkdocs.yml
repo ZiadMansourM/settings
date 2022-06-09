@@ -1,0 +1,8 @@
+site_name: smart-settings
+repo_url: https://github.com/ZiadMansourM/settings
+theme:
+  name: mkdocs
+markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
